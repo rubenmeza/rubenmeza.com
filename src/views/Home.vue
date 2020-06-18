@@ -7,6 +7,7 @@
             <h1 class="title">Hey there!</h1>
             <h1 class="title">I'm Ruben Meza</h1>
             <h2 class="subtitle">FULL STACK DEVELOPER</h2>
+            <h3 class="subtitle">Site made with love and vue</h3>
             <a href="https://www.linkedin.com/in/rubenmezarazo/" target="blank">
               <i class="fab fa-linkedin-in"></i>
             </a>
@@ -46,11 +47,11 @@
       </div>
     </div>
 
-    <div class="hero-foot">
+    <!-- <div class="hero-foot">
       <div class="container has-text-centered">
-        <!-- <h2 class="subtitle"><i class="far fa-copyright"></i> Ruben Meza</h2> -->
+        <h2 class="subtitle"><i class="far fa-copyright"></i> bla bla bla bla</h2>
       </div>
-    </div>
+    </div> -->
   </section>
 </template>
 
