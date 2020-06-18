@@ -14,8 +14,5 @@ module.exports = {
       // extracted common chunks and vendor chunks.
       chunks: ['chunk-vendors', 'chunk-common', 'index']
     }
-  },
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/rubenmeza.com/'
-    : '/'
+  }
 }
